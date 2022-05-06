@@ -31,11 +31,20 @@
     <a href="https://github.com/ArielXL">
         <img src="https://img.shields.io/github/followers/ArielXL?label=follow&style=social"/>
     </a>
+    <a href="https://www.linkedin.com/in/ariel-plasencia-d%C3%ADaz-b325a7232/">
+        <img src="https://img.shields.io/badge/ariel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ariel" />
+    </a>
 </p>
 
-    <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ArielXL&rank=SECRET,SSS,SS,S,AAA,AA&theme=omni&no-bg=true&no-frame=true&column=4" alt="ArielXL" /></a> 
-    </p>
+
+
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=ArielXL&rank=SECRET,SSS,SS,S,AAA,AA&theme=radical&no-bg=true&no-frame=true&column=4" alt="ArielXL" />
+    </a> 
+</p>
+
+
 
 
 <h2 align="center">GitHub Trophies</h2>
@@ -64,4 +73,3 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=ArielXL&bg_color=181824&color=ffffff&line=ffffff&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
   </a>
 </p>
-
