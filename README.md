@@ -24,11 +24,18 @@
 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ArielXL&label=Views&color=lightgrey&style=flat-square" alt="ArielXL" /> 
+    <img src="https://komarev.com/ghpvc/?username=ArielXL&label=Views&color=lightgrey&style=flat-square" alt="ArielXL" /> 
+    <a href="https://twitter.com/arielplasencia1">
+        <img src="https://img.shields.io/twitter/follow/arielplasencia1?style=social" />
+    </a>
+    <a href="https://github.com/ArielXL">
+        <img src="https://img.shields.io/github/followers/ArielXL?label=follow&style=social"/>
+    </a>
 </p>
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ArielXL&rank=SECRET,SSS,SS,S,AAA,AA&theme=omni&no-bg=true&no-frame=true&column=4" alt="ArielXL" /></a> 
-</p>
+
+    <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ArielXL&rank=SECRET,SSS,SS,S,AAA,AA&theme=omni&no-bg=true&no-frame=true&column=4" alt="ArielXL" /></a> 
+    </p>
 
 
 <h2 align="center">GitHub Trophies</h2>
@@ -46,3 +53,15 @@
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArielXL&theme=omni&hide_border=true" alt="ArielXL" />
 </p>
+
+
+<h2 align="center">GitHub Commits Graph</h2>
+
+
+
+<p align="center">
+  <a href="http://www.github.com/ArielXL">
+    <img src="https://activity-graph.herokuapp.com/graph?username=ArielXL&bg_color=181824&color=ffffff&line=ffffff&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+  </a>
+</p>
+
