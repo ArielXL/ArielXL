@@ -116,13 +116,3 @@
 </p>
 
 
-
-<h2 align="center">GitHub Commits Graph</h2>
-
-
-
-<p align="center">
-  <a href="http://www.github.com/ArielXL">
-    <img src="https://activity-graph.herokuapp.com/graph?username=ArielXL&bg_color=181824&theme=omni&line=FF79C6&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-  </a>
-</p>
