@@ -116,3 +116,13 @@
 </p>
 
 
+<h2 align="center">Contribution Graph</h2>
+
+
+
+<p align="center">
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img alt="ArielXL's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=ArielXL&theme=xcode&hide_border=true" alt="ArielXL" />
+    </a>
+</p>
+
