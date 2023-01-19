@@ -41,14 +41,12 @@
   <img src="img/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
   <img src="img/mysql.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
   <img src="img/sqlite.svg" title="SQLite" alt="SQLite" width="60" height="60"/>&nbsp;
-  <img src="img/microsoftsqlserver.svg" title="SQLServer" alt="SQLServer" width="60" height="60"/>&nbsp;
   <img src="img/vuejs.svg" title="Vue" alt="Vue" width="60" height="60"/>&nbsp;
   <img src="img/react.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
   <img src="img/bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60"/>&nbsp;
   <img src="img/django.svg" title="Django" alt="Django" width="60" height="60"/>&nbsp;
   <img src="img/dotnetcore.svg" title="DotNET" alt="DotNET" width="60" height="60"/>&nbsp;
   <img src="img/opencv.svg" title="OpenCV" alt="OpenCV" width="60" height="60"/>&nbsp;
-  <img src="img/anaconda.svg" title="Anaconda" alt="Anaconda" width="60" height="60"/>&nbsp;
   <img src="img/jupyter.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/>&nbsp;
   <img src="img/qt.svg" title="Qt" alt="Qt" width="60" height="60"/>&nbsp;
   <img src="img/vim.svg" title="Vim" alt="Vim" width="60" height="60"/>&nbsp;
@@ -56,12 +54,9 @@
   <img src="img/visualstudio.svg" title="VisualStudio" alt="VisualStudio" width="60" height="60"/>&nbsp;
   <img src="img/git.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
   <img src="img/trello.svg" title="Trello" alt="Trello" width="60" height="60"/>&nbsp;
-  <img src="img/slack.svg" title="Slack" alt="Slack" width="60" height="60"/>&nbsp;
-  <img src="img/linux.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
   <img src="img/ubuntu.svg" title="Ubuntu" alt="Ubuntu" width="60" height="60"/>&nbsp;
   <img src="img/chrome.svg" title="Chrome" alt="Chrome" width="60" height="60"/>&nbsp;
   <img src="img/firefox.svg" title="Firefox" alt="Firefox" width="60" height="60"/>&nbsp;
-  <img src="img/opera.svg" title="Opera" alt="Opera" width="60" height="60"/>&nbsp;
 </div>
 
 
