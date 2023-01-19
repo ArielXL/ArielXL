@@ -35,7 +35,6 @@
   <img src="img/html5.svg" title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;
   <img src="img/css3.svg" title="CSS3" alt="CSS3" width="60" height="60"/>&nbsp;
   <img src="img/javascript.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
-  <img src="img/typescript.svg" title="TypeScript" alt="TypeScript" width="60" height="60"/>&nbsp;
   <img src="img/sass.svg" title="Sass" alt="Sass" width="60" height="60"/>&nbsp;
   <img src="img/docker.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
   <img src="img/fastapi.svg" title="FastAPI" alt="FastAPI" width="60" height="60"/>&nbsp;
