@@ -28,7 +28,6 @@
   <img src="img/cplusplus.svg" title="CPP" alt="CPP" width="60" height="60"/>&nbsp;
   <img src="img/csharp.svg" title="CSharp" alt="CSharp" width="60" height="60"/>&nbsp;
   <img src="img/python.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
-  <img src="img/fsharp.svg" title="FSharp" alt="FSharp" width="60" height="60"/>&nbsp;
   <img src="img/haskell.svg" title="Haskell" alt="Haskell" width="60" height="60"/>&nbsp;
   <img src="img/r.svg" title="R" alt="R" width="60" height="60"/>&nbsp;
   <img src="img/latex.svg" title="LaTex" alt="LaTex" width="60" height="60"/>&nbsp;
