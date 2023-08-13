@@ -68,7 +68,7 @@
 
 <p align="center">
     <a href="http://www.github.com/ArielXL">
-        <img src="https://github-profile-trophy.vercel.app/?username=ArielXL&rank=SECRET,SSS,SS,S,AAA,AA&theme=radical&no-bg=true&no-frame=true&column=4" alt="ArielXL" />
+        <img src="https://github-profile-trophy.vercel.app/?username=ArielXL&theme=radical&no-bg=true&no-frame=true&column=4" alt="ArielXL" />
     </a> 
 </p>
 
@@ -88,7 +88,7 @@
 
 <p align="center">
     <a href="http://www.github.com/ArielXL">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielXL&layout=compact&langs_count=8&theme=omni&hide_border=true" alt="ArielXL" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielXL&layout=compact&langs_count=15&theme=omni&hide_border=true" alt="ArielXL" />
     </a>
 </p>
 
