@@ -35,12 +35,9 @@
   <img src="img/html5.svg" title="HTML 5" alt="HTML 5" width="60" height="60"/>&nbsp;
   <img src="img/css3.svg" title="CSS 3" alt="CSS 3" width="60" height="60"/>&nbsp;
   <img src="img/javascript.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
-  <img src="img/sass.svg" title="Sass" alt="Sass" width="60" height="60"/>&nbsp;
-  <img src="img/fastapi.svg" title="FastAPI" alt="FastAPI" width="60" height="60"/>&nbsp;
   <img src="img/postgresql.svg" title="Postgres" alt="Postgres" width="60" height="60"/>&nbsp;
   <img src="img/vuejs.svg" title="Vue" alt="Vue" width="60" height="60"/>&nbsp;
   <img src="img/react.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
-  <img src="img/bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60"/>&nbsp;
   <img src="img/django.svg" title="Django" alt="Django" width="60" height="60"/>&nbsp;
   <img src="img/dotnetcore.svg" title="DotNET Core" alt="DotNET Core" width="60" height="60"/>&nbsp;
   <img src="img/opencv.svg" title="OpenCV" alt="OpenCV" width="60" height="60"/>&nbsp;
@@ -51,7 +48,6 @@
   <img src="img/git.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
   <img src="img/trello.svg" title="Trello" alt="Trello" width="60" height="60"/>&nbsp;
   <img src="img/ubuntu.svg" title="Ubuntu" alt="Ubuntu" width="60" height="60"/>&nbsp;
-  <img src="img/chrome.svg" title="Chrome" alt="Chrome" width="60" height="60"/>&nbsp;
 </div>
 
 
